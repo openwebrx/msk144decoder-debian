@@ -11,6 +11,6 @@ Homepage: https://github.com/alexander-sholohov/msk144decoder
 Rules-Requires-Root: no
 
 Package: msk144decoder
-Architecture: Any
+Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: MSK144 Stream decoder
