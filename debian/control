@@ -1,0 +1,16 @@
+Source: msk144decoder
+Maintainer: Jakob Ketterl <jakob.ketterl@gmx.de>
+Uploaders: Alexander Sholohov
+Section: hamradio
+Priority: optional
+Standards-Version: 4.2.0
+Build-Depends: debhelper (>= 11), cmake (>= 3)
+Vcs-Browser: https://github.com/alexander-sholohov/msk144decoder
+Vcs-Git: https://github.com/alexander-sholohov/msk144decoder.git
+Homepage: https://github.com/alexander-sholohov/msk144decoder
+Rules-Requires-Root: no
+
+Package: msk144decoder
+Architecture: Any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: MSK144 Stream decoder
