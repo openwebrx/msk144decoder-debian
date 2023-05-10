@@ -1,3 +1,7 @@
+msk144decoder (0.0.1-2) UNRELEASED; urgency=low
+
+ -- Jakob Ketterl <jakob.ketterl@gmx.de>  Wed, 10 May 2023 20:30:00 +0000
+
 msk144decoder (0.0.1-1) bullseye jammy; urgency=low
 
   * Initial release
